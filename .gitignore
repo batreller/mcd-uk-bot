@@ -1,0 +1,4 @@
+venv
+settings/config.py
+database.db
+.idea

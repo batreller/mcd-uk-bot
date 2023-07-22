@@ -1,0 +1,15 @@
+aiogram~=2.25.1
+SQLAlchemy~=2.0.17
+sqlalchemy[asyncio]
+redis
+fluent.syntax
+fluent.runtime
+
+asyncpg~=0.28.0
+aiohttp~=3.8.4
+uvloop
+ujson
+cchardet
+aiodns
+aiohttp[speedups]
+qrcode
