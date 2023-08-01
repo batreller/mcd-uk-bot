@@ -16,7 +16,7 @@ class McDonalds:
         self._code_parts = [self._code[:4], self._code[4:8], self._code[8:]]
         self._session = None
         self._next_button = None
-        self._next_url = ''
+        self._next_url = '/'
         self._progress = None
         self._posted_fns = None
         self._ionf = None
